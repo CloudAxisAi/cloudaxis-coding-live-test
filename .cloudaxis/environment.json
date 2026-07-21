@@ -1,0 +1,17 @@
+{
+  "language": "node",
+  "packageManager": "npm",
+  "image": "node:22",
+  "setup": [
+    "npm install"
+  ],
+  "dev": "npm run dev",
+  "test": null,
+  "ports": [
+    3000
+  ],
+  "lockfiles": [
+    "package.json"
+  ],
+  "detectedBy": "heuristic"
+}
