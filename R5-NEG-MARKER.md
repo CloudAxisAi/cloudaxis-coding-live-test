@@ -1,0 +1,1 @@
+line neg-ok
